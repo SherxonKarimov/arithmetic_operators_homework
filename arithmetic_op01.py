@@ -1,6 +1,4 @@
-
-arithmetic_op02.py
-arithmetic_op03.py
-arithmetic_op04.py
-arithmetic_op05.py
-arithmetic_op06.py
+x=10
+y=5
+result=x+y
+print(result)
